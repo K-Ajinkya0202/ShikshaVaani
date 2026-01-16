@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShikshaVaani/static/css/main.f855e6bc.css",
+    "main.js": "/ShikshaVaani/static/js/main.af5eba4b.js",
+    "static/js/453.20a55c01.chunk.js": "/ShikshaVaani/static/js/453.20a55c01.chunk.js",
+    "static/media/logo.svg": "/ShikshaVaani/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ShikshaVaani/index.html",
+    "main.f855e6bc.css.map": "/ShikshaVaani/static/css/main.f855e6bc.css.map",
+    "main.af5eba4b.js.map": "/ShikshaVaani/static/js/main.af5eba4b.js.map",
+    "453.20a55c01.chunk.js.map": "/ShikshaVaani/static/js/453.20a55c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af5eba4b.js"
+  ]
+}
