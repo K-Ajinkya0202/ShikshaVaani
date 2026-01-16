@@ -58,10 +58,12 @@ ShikshaVaani provides:
 
 ---
 
+## Demo Video
+🎥 Demo video will be uploaded soon.
+
+---
+
 ## How to Run Locally
 ```bash
 npm install
 npm start
-
-## Demo Video
-🎥 Demo video will be uploaded soon.
