@@ -59,7 +59,7 @@ ShikshaVaani provides:
 ---
 
 ## 🎥 Demo Lecture
-📌 Demo Lecture Video: [Watch here](https://youtu.be/Um8H7pTomCI)
+📌 Demo Lecture Video: [Watch here](https://youtu.be/Um8H7pIomcI)
 
 ---
 
