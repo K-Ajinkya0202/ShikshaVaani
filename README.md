@@ -58,8 +58,8 @@ ShikshaVaani provides:
 
 ---
 
-## 🎥 Demo Lecture
-📌 Demo Lecture Video: [Watch here](https://youtu.be/Um8H7pIomcI)
+## 🎥 Demo Video
+📌 Demo Video: [Watch here](https://youtu.be/Um8H7pIomcI)
 
 ---
 
